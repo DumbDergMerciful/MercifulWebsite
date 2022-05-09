@@ -1,2 +1,2 @@
-# MercifulWebsite
-My Website with the help of Panda
+# Merciful.dev
+<br> Got help from Panda
